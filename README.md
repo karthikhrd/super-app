@@ -11,10 +11,10 @@ https:///
 
 ## Screenshots
 
-![Login Screen](./public/signup.png)
+![Login Screen](./public/login page.png)
 ![Select category](./public/selectCategory.png)
 ![Dashboard](./public/dashboard.png)
-![Browse selected](./public/browse.png)
+![Browse selected](./public/browseresults.png)
 ![Error page](./public/error.jpg)
 
 
