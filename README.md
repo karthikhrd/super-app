@@ -20,9 +20,6 @@ https:///https://main--capstone-29.netlify.app/register
 
 
 
-```bash
-  git clone https://github.com/Brav3Trav3l3r/super-app
-```
 
 
 Install dependencies for this proj jan 29  2024
