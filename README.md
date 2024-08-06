@@ -6,7 +6,7 @@
 
 ## Demo
 
-https:///
+https:///https://main--capstone-29.netlify.app/register
 
 
 ## Screenshots
